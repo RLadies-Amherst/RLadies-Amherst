@@ -18,7 +18,8 @@ Brittney Bailey and Katharine Correia are both professors at Amherst College. Th
 
 ## Contact information
 
-- XX
+- Andrea Boskovic, aboskovic21@amherst.edu
+- Clara Seo, cseo21@amherst.edu
 - Nicholas Horton (faculty liaison)
 
 Last updated February 8, 2020
