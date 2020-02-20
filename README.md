@@ -16,6 +16,12 @@ Amy Nussbaum is a Professor of Statistics at Mount Holyoke College. She will be 
 ## Brittney Bailey and Katharine Correia: Panel on Careers in Statistics and Data Science
 Brittney Bailey and Katharine Correia are both professors at Amherst College. They will be speaking about their academic journies in statistics. This event is in the form of a panel, so feel free to come with questions.
 
+## Krista Gile
+Tuesady, March 10, 4:30-5:30
+
+## Sara Stoudt
+Monday, April 13, 4:30-5:30
+
 ## Contact information
 
 - Andrea Boskovic, aboskovic21@amherst.edu
