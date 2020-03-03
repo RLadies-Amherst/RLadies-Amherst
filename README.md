@@ -18,10 +18,12 @@ Brittney Bailey and Katharine Correia are both professors at Amherst College. Th
 
 ## Krista Gile
 Tuesday, March 10, 4:30-5:30
+
 Krista Gile, Professor in the Mathematics and Statistics Department at UMass Amherst, will be discussing her personal journey interwoven with her research. Professor Giles' research focuses on creating a statistical methodology for social and behavioral science research, particularly related to making inference from partially-observed social network structures.
 
 ## Sara Stoudt
 Monday, April 13, 4:30-5:30
+
 Sara Stoudt, a former Smith College student, will be giving an overview of her work and then doing a question and answer about career opportunities. Professor Stoudt now does research in Applied and Theoretical Statistics at the University of California, Berkeley.
 
 ## Contact information
