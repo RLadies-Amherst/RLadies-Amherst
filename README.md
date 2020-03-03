@@ -17,10 +17,12 @@ Amy Nussbaum is a Professor of Statistics at Mount Holyoke College. She will be 
 Brittney Bailey and Katharine Correia are both professors at Amherst College. They will be speaking about their academic journies in statistics. This event is in the form of a panel, so feel free to come with questions.
 
 ## Krista Gile
-Tuesady, March 10, 4:30-5:30
+Tuesday, March 10, 4:30-5:30
+Krista Gile, Professor in the Mathematics and Statistics Department at UMass Amherst, will be discussing her personal journey interwoven with her research. Professor Giles' research focuses on creating a statistical methodology for social and behavioral science research, particularly related to making inference from partially-observed social network structures.
 
 ## Sara Stoudt
 Monday, April 13, 4:30-5:30
+Sara Stoudt, a former Smith College student, will be giving an overview of her work and then doing a question and answer about career opportunities. Professor Stoudt now does research in Applied and Theoretical Statistics at the University of California, Berkeley.
 
 ## Contact information
 
@@ -28,4 +30,4 @@ Monday, April 13, 4:30-5:30
 - Clara Seo, cseo21@amherst.edu
 - Nicholas Horton (faculty liaison)
 
-Last updated February 8, 2020
+Last updated March 3, 2020
