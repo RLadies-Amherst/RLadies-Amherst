@@ -16,7 +16,7 @@ Amy Nussbaum is a Professor of Statistics at Mount Holyoke College. She will be 
 ## Brittney Bailey and Katharine Correia: Panel on Careers in Statistics and Data Science
 Brittney Bailey and Katharine Correia are both professors at Amherst College. They will be speaking about their academic journies in statistics. This event is in the form of a panel, so feel free to come with questions.
 
-## Krista Gile -- CANCELED
+## Krista Gile -- CANCELLED
 Tuesday, March 10, 4:30-5:30
 
 Krista Gile, Professor in the Mathematics and Statistics Department at UMass Amherst, will be discussing her personal journey interwoven with her research. Professor Giles' research focuses on creating a statistical methodology for social and behavioral science research, particularly related to making inference from partially-observed social network structures.
