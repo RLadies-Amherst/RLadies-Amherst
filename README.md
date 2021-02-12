@@ -1,6 +1,6 @@
 # RLadies
 
-![RLadies Amherst Logo](rladies_amherst_logo.png)
+![RLadies Amherst Logo](rladies_Amherst_logo.png)
 
 RLadies is a group that promotes gender inclusivity in statistics and data science at Amherst. We will be holding multiple events throughout the semester, including speakers, panels, and more. All are welcome to attend these events!
 
