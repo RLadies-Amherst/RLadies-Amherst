@@ -1,16 +1,31 @@
 # RLadies
 
-![RLadies Amherst Logo](rladies_Amherst_logo.png)
+![RLadies Amherst Logo](rladies_Amherst_logo.jpg)
 
-RLadies is a group that promotes gender inclusivity in statistics and data science at Amherst. We will be holding multiple events throughout the semester, including speakers, panels, and more. All are welcome to attend these events!
+RLadies Amherst is a group that promotes gender inclusivity in statistics and data science at [Amherst](https://www.amherst.edu/). We will be holding multiple events throughout the semester, including speakers, panels, and more. All are welcome to attend these events!
 
 [RLadies](https://rladies.org) is a world-wide organization to promote gender diversity in the R community.  
 
 # Events for Spring 2021
 
+This semester, in an effort to increase the quick, hands-on coding opportunities in statistics at Amherst, we will be holding a series of "Tidy Tuesdays." Similar to the popular [tidy tuesday challenge](https://github.com/rfordatascience/tidytuesday) from GitHub, we will be releasing a dataset a little bit in advance to our meeting. During the meeting, we will start or keep working on the challenge or discuss our visualization(s). Check out some of the cool Tidy Tuesday visualizations from Twitter [here](https://twitter.com/hashtag/tidytuesday?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Ehashtag)! There's a lot of cool stuff to learn!
+
+## Wednesday Feb 24 5-6: Tidy Tuesday
+Dataset TBD
+
+## Wednesday Mar 17 5-6: Tidy Tuesday
+Dataset TBD
+
+## Week of Mar 29 (date TBD): Speaker TBD
 
 
-# Past Events
+## Wednesday Apr 14 5-6: Python for R Users Crash Course
+Jessica and Andrea will hold a quick, hands-on Python crash course for people with some familiarity with R. Join us to learn the basics!
+
+## Wednesday May 5 5-6: Tidy Tuesday
+Dataset TBD
+
+# Event Archives
 
 ## Events for Spring 2020
 
