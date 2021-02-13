@@ -25,6 +25,9 @@ Jessica and Andrea will hold a quick, hands-on Python crash course for people wi
 ## Wednesday May 5 5-6: Tidy Tuesday
 Dataset TBD
 
+___________________________________
+
+
 # Event Archives
 
 ## Events for Spring 2020
