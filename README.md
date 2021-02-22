@@ -10,20 +10,20 @@ RLadies Amherst is a group that promotes gender inclusivity in statistics and da
 
 This semester, in an effort to increase the quick, hands-on coding opportunities in statistics at Amherst, we will be holding a series of "Tidy Tuesdays." Similar to the popular [tidy tuesday challenge](https://github.com/rfordatascience/tidytuesday) from GitHub, we will be releasing a dataset a little bit in advance to our meeting. During the meeting, we will start or keep working on the challenge or discuss our visualization(s). Check out some of the cool Tidy Tuesday visualizations from Twitter [here](https://twitter.com/hashtag/tidytuesday?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Ehashtag)! There's a lot of cool stuff to learn!
 
-## Wednesday Feb 24 5-6: Tidy Tuesday
-Dataset TBD
+## Thursday Feb 25 5:30-6:30 EST: Tidy Thursday
+[Plastic pollution dataset](https://github.com/rfordatascience/tidytuesday/tree/master/data/2021/2021-01-26). Check out `plastics.csv` for the dataset. The Readme has some instructions on getting started! Here's the [Zoom link](https://amherstcollege.zoom.us/j/96730741628)
 
-## Wednesday Mar 17 5-6: Tidy Tuesday
-Dataset TBD
+## Wednesday Mar 17 5-6: Tidy Wednesday
+[Historically Black Colleges and Universities dataset](https://github.com/rfordatascience/tidytuesday/tree/master/data/2021/2021-02-02). Check out the `.csv` files available in this repo! Zoom link TBD.
 
 ## Week of Mar 29 (date TBD): Speaker TBD
-
+Check back in for updates!
 
 ## Wednesday Apr 14 5-6: Python for R Users Crash Course
-Jessica and Andrea will hold a quick, hands-on Python crash course for people with some familiarity with R. Join us to learn the basics!
+Jessica and Andrea will hold a quick, hands-on Python crash course for people with some familiarity with R. Join us to learn the basics! Zoom link TBD.
 
-## Wednesday May 5 5-6: Tidy Tuesday
-Dataset TBD
+## Wednesday May 5 5-6: Tidy Wednesday
+Have suggestions for a dataset you want to look at? Let us know!
 
 ___________________________________
 
