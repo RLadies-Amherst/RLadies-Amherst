@@ -2,11 +2,9 @@
 
 ![RLadies Amherst Logo](rladies_Amherst_logo.jpg)
 
-RLadies Amherst is a group that promotes gender inclusivity in statistics and data science at [Amherst](https://www.amherst.edu/). We will be holding multiple events throughout the semester, including speakers, panels, and more. All are welcome to attend these events!
+RLadies Amherst is a group that promotes gender inclusivity in statistics and data science at [Amherst](https://www.amherst.edu/). We will be holding multiple events throughout the semester, including speakers, panels, and more. All are welcome to attend these events! [RLadies](https://rladies.org) is a world-wide organization to promote gender diversity in the R community.  
 
-[RLadies](https://rladies.org) is a world-wide organization to promote gender diversity in the R community.  
-
-Join our [GroupMe](https://groupme.com/join_group/66718112/xHuAqfAg)! Have suggestions for a dataset you want to look at? Let us know!
+Join our [GroupMe](https://groupme.com/join_group/66718112/xHuAqfAg)! Want to join our Slack channel? Email Andrea or Jess (info at the bottom of this page)! Have suggestions for a dataset you want to look at? Let us know!
 
 # Events for Spring 2021
 
