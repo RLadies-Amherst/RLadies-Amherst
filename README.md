@@ -13,32 +13,14 @@ This semester, in an effort to increase the quick, hands-on coding opportunities
 ## Thursday Feb 25 5:30-6:30 EST: Tidy Thursday
 [Plastic pollution dataset](https://github.com/rfordatascience/tidytuesday/tree/master/data/2021/2021-01-26). Check out `plastics.csv` for the dataset. The Readme has some instructions on getting started! Here's the [Zoom link](https://amherstcollege.zoom.us/j/96730741628)
 
-## Thursday Mar 4 5:30-6:30 EST: Tidy Thursday
-Dataset TBD
+Note that due to high demand, we will be doing Tidy Wednesdays each Wednesday 8-9 PM (EST). Contact us for more information!
 
-## Thursday Mar 11 5:30-6:30 EST: Tidy Thursday
-Dataset TBD
-
-## Wednesday Mar 17 5-6: Tidy Wednesday
-[Historically Black Colleges and Universities dataset](https://github.com/rfordatascience/tidytuesday/tree/master/data/2021/2021-02-02). Check out the `.csv` files available in this repo! Zoom link TBD.
-
-## Wednesday Mar 24: Tidy Wednesday
-Dataset TBD
-
-## Week of Mar 29 (date TBD): Speaker TBD
+## Monday Mar 29 5:30-6:30: Maria Tackett
 Check back in for updates!
-
-## Wednesday Apr 7: Tidy Wednesday
-Dataset TBD
 
 ## Wednesday Apr 14 5-6: Python for R Users Crash Course
 Jessica and Andrea will hold a quick, hands-on Python crash course for people with some familiarity with R. Join us to learn the basics! Zoom link TBD.
 
-## Wedensday Apr 21: Tidy Wednesday
-Dataset TBD
-
-## Wednesday May 5 5-6: Tidy Wednesday
-Dataset TBD
 ___________________________________
 
 
