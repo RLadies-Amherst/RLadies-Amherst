@@ -16,7 +16,9 @@ This semester, in an effort to increase the quick, hands-on coding opportunities
 Note that due to high demand, we will be doing Tidy Wednesdays each Wednesday 8-9 PM (EST). Contact us for more information!
 
 ## Monday Mar 29 5:30-6:30: Maria Tackett
-Check back in for updates!
+
+### Building websites in RStudio
+This talk is all about building websites in RStudio! I’ll begin by motivating why RStudio is useful for building websites. Then, I’ll talk about Distill and Blogdown, two R packages used for website development. I’ll conclude by sharing tips and some lessons I’ve learned along the way.
 
 ## Wednesday Apr 14 5-6: Python for R Users Crash Course
 Jessica and Andrea will hold a quick, hands-on Python crash course for people with some familiarity with R. Join us to learn the basics! Zoom link TBD.
