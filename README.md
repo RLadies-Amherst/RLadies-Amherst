@@ -6,6 +6,8 @@ RLadies Amherst is a group that promotes gender inclusivity in statistics and da
 
 Join our [GroupMe](https://groupme.com/join_group/66718112/xHuAqfAg)! Want to join our Slack channel? Email Andrea or Jess (info at the bottom of this page)! Have suggestions for a dataset you want to look at? Let us know!
 
+Our recurring [Zoom link](https://amherstcollege.zoom.us/s/98581387329).
+
 # Events for Spring 2021
 
 This semester, in an effort to increase the quick, hands-on coding opportunities in statistics at Amherst, we will be holding a series of "Tidy Tuesdays." Similar to the popular [tidy tuesday challenge](https://github.com/rfordatascience/tidytuesday) from GitHub, we will be releasing a dataset a little bit in advance to our meeting. During the meeting, we will start or keep working on the challenge or discuss our visualization(s). Check out some of the cool Tidy Tuesday visualizations from Twitter [here](https://twitter.com/hashtag/tidytuesday?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Ehashtag)! There's a lot of cool stuff to learn!
