@@ -1,0 +1,18 @@
+name: "rladies"
+title: "RLadies Amherst"
+description: |
+  RLadies Amherst
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Events"
+      href: events.html
+    - text: "Tidy Tuesday"
+      href: projects.html
+    - text: "Members"
+      href: members.html
+output: distill::distill_article

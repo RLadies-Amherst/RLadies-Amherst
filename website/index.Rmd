@@ -1,0 +1,22 @@
+---
+title: "RLadies Amherst"
+image: "rladies_Amherst_logo.jpg"
+links:
+  - label: GitHub
+    url: "https://github.com/RLadies-Amherst"
+  - label: Email
+    url: "mailto:jeyu22@amherst.edu"
+output:
+  postcards::trestles
+site: distill::distill_website 
+---
+ 
+## About Us
+
+RLadies Amherst is a group that promotes gender inclusivity in statistics and data science at [Amherst](https://www.amherst.edu/). We will be holding multiple events throughout the semester, including speakers, panels, and more. All are welcome to attend these events! [RLadies](https://rladies.org) is a world-wide organization to promote gender diversity in the R community.  
+
+## Join Us!
+
+Join our [GroupMe](https://groupme.com/join_group/66718112/xHuAqfAg)! Want to join our Slack channel? Email Andrea or Jess (info at the bottom of this page)! Have suggestions for a dataset you want to look at? Let us know!
+
+We typically meet on Wednesdays 8-9 PM ET on our recurring [Zoom link](https://amherstcollege.zoom.us/s/98581387329). 

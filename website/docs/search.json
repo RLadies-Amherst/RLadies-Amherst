@@ -1,0 +1,61 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About Us",
+      "author": [],
+      "contents": "\nWhy do we like RLadies?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+      "last_modified": "2021-04-07T22:24:22-04:00"
+    },
+    {
+      "path": "events.html",
+      "title": "Events",
+      "description": "A new article created using the Distill format.\n",
+      "author": [
+        {
+          "name": "Nora Jones",
+          "url": "https://example.com/norajones"
+        }
+      ],
+      "date": "`r Sys.Date()`",
+      "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
+      "last_modified": "2021-04-07T22:24:24-04:00"
+    },
+    {
+      "path": "index.html",
+      "title": "RLadies Amherst",
+      "author": [],
+      "contents": "\n\n          \n      \n      RLadies Amherst\n      \n      \n      Home\n      About\n      Events\n      Tidy Tuesday\n      Members\n      ☰\n      \n      \n      \n        \n          \n            \n              \n            \n              RLadies Amherst\n            \n            \n              \n                \n                    \n                      \n                        GitHub\n                      \n                    \n                  \n                                    \n                    \n                      \n                        Email\n                      \n                    \n                  \n                                  \n            \n          \n        \n        \n        \n          \n            \n            About Us\n            RLadies Amherst is a group that promotes gender inclusivity in statistics and data science at Amherst. We will be holding multiple events throughout the semester, including speakers, panels, and more. All are welcome to attend these events! RLadies is a world-wide organization to promote gender diversity in the R community.\n            \n            \n            Join Us!\n            Join our GroupMe! Want to join our Slack channel? Email Andrea or Jess (info at the bottom of this page)! Have suggestions for a dataset you want to look at? Let us know!\n            We typically meet on Wednesdays 8-9 PM ET on our recurring Zoom link.\n            \n          \n        \n      \n    \n\n    \n      \n        \n          \n            \n              \n            \n              RLadies Amherst\n            \n            \n              \n                \n                                    \n                    \n                      GitHub\n                    \n                  \n                                    \n                    \n                      Email\n                    \n                  \n                                  \n              \n            \n            \n              \n              About Us\n              RLadies Amherst is a group that promotes gender inclusivity in statistics and data science at Amherst. We will be holding multiple events throughout the semester, including speakers, panels, and more. All are welcome to attend these events! RLadies is a world-wide organization to promote gender diversity in the R community.\n              \n              \n              Join Us!\n              Join our GroupMe! Want to join our Slack channel? Email Andrea or Jess (info at the bottom of this page)! Have suggestions for a dataset you want to look at? Let us know!\n              We typically meet on Wednesdays 8-9 PM ET on our recurring Zoom link.\n              \n            \n        \n      \n    \n\n    \n    \n    ",
+      "last_modified": "2021-04-07T22:24:24-04:00"
+    },
+    {
+      "path": "members.html",
+      "title": "Members",
+      "description": "A new article created using the Distill format.\n",
+      "author": [
+        {
+          "name": "Nora Jones",
+          "url": "https://example.com/norajones"
+        }
+      ],
+      "date": "`r Sys.Date()`",
+      "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
+      "last_modified": "2021-04-07T22:24:25-04:00"
+    },
+    {
+      "path": "projects.html",
+      "title": "Tidy Tuesday",
+      "description": "A new article created using the Distill format.\n",
+      "author": [
+        {
+          "name": "Nora Jones",
+          "url": "https://example.com/norajones"
+        }
+      ],
+      "date": "`r Sys.Date()`",
+      "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
+      "last_modified": "2021-04-07T22:24:25-04:00"
+    }
+  ],
+  "collections": []
+}

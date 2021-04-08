@@ -1,0 +1,38 @@
+---
+title: "About Us"
+description: |
+  
+---
+
+## Why do we like RLadies?
+
+```{r, echo = FALSE}
+library(wordcloud)
+library(RColorBrewer)
+library(wordcloud2)
+library(tm)
+```
+
+```{r, echo = FALSE}
+text <- c('fun', 'talking', 'code', 'learning', 'laugh', 'collaborative', 'learning', 'problem-solving', 
+           'exciting', 'bonding', 'captivating', 'friends', 'energizing', 'fun', 'fun', 'friends', 'friends',
+           'exciting', 'bonding', 'bonding', 'learning', 'learning', 'learning', 'fun', 'problem-solving',
+           'code', 'learning', 'laugh', 'collaborative', 'learning', 'problem-solving', 'exciting',
+           'bonding', 'captivating', 'friends', 'energizing', 'fun', 'fun', 'friends')
+```
+
+```{r, echo = FALSE}
+docs <- Corpus(VectorSource(text))
+dtm <- TermDocumentMatrix(docs) 
+matrix <- as.matrix(dtm) 
+words <- sort(rowSums(matrix),decreasing=TRUE) 
+df <- data.frame(word = names(words),freq=words)
+```
+
+```{r, echo = FALSE}
+set.seed(1234) # for reproducibility 
+wordcloud::wordcloud(words = df$word, freq = df$freq, min.freq = 1, max.words=200, 
+                       random.order=FALSE, rot.per=0.35, colors=brewer.pal(8, "Dark2"), scale=c(3.5,0.05))
+```
+
+
